@@ -1,0 +1,12 @@
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\bin\Debug\net8.0\Sales.Domain.deps.json
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\bin\Debug\net8.0\Sales.Domain.dll
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\bin\Debug\net8.0\Sales.Domain.pdb
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\obj\Debug\net8.0\Sales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\obj\Debug\net8.0\Sales.Domain.AssemblyInfoInputs.cache
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\obj\Debug\net8.0\Sales.Domain.AssemblyInfo.cs
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\obj\Debug\net8.0\Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\obj\Debug\net8.0\Sales.Domain.sourcelink.json
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\obj\Debug\net8.0\Sales.Domain.dll
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\obj\Debug\net8.0\refint\Sales.Domain.dll
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\obj\Debug\net8.0\Sales.Domain.pdb
+C:\Users\frenn\source\repos\Sales\Sales\Sales.Domain\obj\Debug\net8.0\ref\Sales.Domain.dll

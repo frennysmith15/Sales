@@ -7,7 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interface\" />
+    <Folder Include="Dao\" />
+    <Folder Include="Exception\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="NewFolder\" />
   </ItemGroup>
 
 </Project>

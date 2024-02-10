@@ -1,6 +1,6 @@
 ﻿namespace Sales.Domain.Entities
 {
-    public class Venta
+    public class Venta : Core.BaseEntity
     {
         public int Id { get; set; }
         public string? Numeroventa { get; set; }
@@ -11,6 +11,5 @@
         public double? ImpuestoTotal { get; set; }
         public double? Total { get; set; }
         public DateTime FechaRegistro { get; set; }
-        public int IdUsuarioCreacion { get; set; }
     }
 }

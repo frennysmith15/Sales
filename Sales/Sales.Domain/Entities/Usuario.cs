@@ -1,6 +1,6 @@
 ﻿namespace Sales.Domain.Entities
 {
-    public class Usuario
+    public class Usuario : Core.BaseEntity 
     {
         public int Id { get; set; }
         public string? Nombre { get; set; }
