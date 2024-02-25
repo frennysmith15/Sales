@@ -7,7 +7,7 @@ using Sales.Domain.Core;
 
 namespace Sales.Domain.Entities
 {
-    internal class Negocio : BaseEntity
+    public class Negocio : BaseEntity
     {
         public int IdNegocio { get; set; }
         public string? UrlLogo { get; set; }

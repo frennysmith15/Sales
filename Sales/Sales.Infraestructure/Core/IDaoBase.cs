@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Sales.Domain.Entities;
 
 namespace Sales.Infraestructure.Core
 {
-    internal class IDaoBase
+    public interface IDaoBase<TEntity> where TEntity : class 
     {
+        void Save(TEntity entity);
+        List<TEntity> GetAll();
+        void GetById(int id);
+        bool Exists(int id);
     }
 }
